@@ -2,7 +2,10 @@
  * Class ID: CSE 360
  * Assignment: 2
  * Description: This class takes in a values and performs
- * operations on the total value */
+ * operations on the total value 
+ * GitHub Link:
+ https://github.com/kmsarsam/cse360assign2/tree/master
+ */
 
 package cse360assign2;
 
